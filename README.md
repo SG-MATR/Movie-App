@@ -1,4 +1,5 @@
 🎬 Movie App
+
 A fast, responsive movie browsing app built with React + Vite, integrated with the TMDB API and Appwrite for backend features like trending search tracking. Includes a debounced search input for smooth and efficient querying.
 
 🔗 Live Demo: https://movie-app-beige-zeta.vercel.app
