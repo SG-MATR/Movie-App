@@ -5,6 +5,7 @@ A fast, responsive movie browsing app built with React + Vite, integrated with t
 🔗 Live Demo: https://movie-app-beige-zeta.vercel.app
 
 🚀 Features
+
 🔎 Instant search with useDebounce for improved performance
 
 🎞️ Trending and popular movies via TMDB API
@@ -16,6 +17,7 @@ A fast, responsive movie browsing app built with React + Vite, integrated with t
 🚀 Hosted on Vercel
 
 🛠️ Tech Stack
+
 Frontend: React + Vite
 
 Backend: Appwrite (Cloud)
