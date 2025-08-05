@@ -13,14 +13,14 @@ A fast, responsive movie browsing app built with React + Vite, integrated with t
 
 🗂️ Appwrite backend for storing and retrieving trending search terms
 
-🎨 Clean, responsive UI built with React + Vite
+🎨 Clean, responsive UI built with React + Vite + Tailwindcss
 
 🚀 Hosted on Vercel
 
 
 🛠️ Tech Stack
 
-Frontend: React + Vite
+Frontend: React + Vite + Tailwindcss
 
 Backend: Appwrite (Cloud)
 
