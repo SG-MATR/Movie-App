@@ -4,6 +4,7 @@ A fast, responsive movie browsing app built with React + Vite, integrated with t
 
 🔗 Live Demo: https://movie-app-beige-zeta.vercel.app
 
+
 🚀 Features
 
 🔎 Instant search with useDebounce for improved performance
@@ -15,6 +16,7 @@ A fast, responsive movie browsing app built with React + Vite, integrated with t
 🎨 Clean, responsive UI built with React + Vite
 
 🚀 Hosted on Vercel
+
 
 🛠️ Tech Stack
 
